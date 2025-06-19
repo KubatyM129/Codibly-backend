@@ -1,0 +1,6 @@
+FastAPI
+requests
+uvicorn
+pydantic
+pytest
+httpx
